@@ -1,0 +1,30 @@
+body {
+    color: chartreuse;
+    background-color: rgb(36, 31, 1);
+}
+
+.heading {
+    width: 100%;
+    font-size: 22px;
+}
+
+.objects {
+    color: rgb(255, 255, 255);
+}
+
+hr {
+    background-color: lightcoral;
+    height: 2px;
+}
+
+#camera {
+    border: 2px double chartreuse;
+    width: 500px;
+    height: 300px;
+}
+.button{
+    border-style: ridge;
+    border-color:chartreuse ;
+    border-width:5px ;
+    font-size: 15px;
+}
